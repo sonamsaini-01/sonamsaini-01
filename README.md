@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sonam Saini</h1>
 
 <h3 align="center">
@@ -9,11 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Hackathon+Participant;Full+Stack+Developer;Always+Learning+New+Technologies!" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -80,7 +74,7 @@
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Github Goals
 
 ✅ Build impactful AI projects
 
@@ -107,13 +101,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
 
 ## 📚 Featured Repositories
 
@@ -134,17 +121,25 @@
 
 ## 🤝 Let's Connect
 
-📧 Email: your.email@example.com
+<p align="left">
+<a href="sonamsaini045@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+</a>
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+<a href="(https://www.linkedin.com/in/ sonam-saini-047436326)/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
 
-💻 LeetCode: https://leetcode.com/u/YOUR_USERNAME
+<a href="(https://www.youtube.com/@CodeEasily-ss07)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=youtube" height="45" alt="YouTube"/>
+</a>
 
-🌐 Portfolio: Coming Soon...
+<a href="(https://leetcode.com/u/sonamsainii_01/)" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" alt="LeetCode"/>
+</a>
+</p>
 
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! Let's build something amazing together. ⭐
 </h3>
-```
