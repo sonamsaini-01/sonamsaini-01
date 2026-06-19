@@ -131,7 +131,7 @@
 </a>
 
 <a href="(https://www.youtube.com/@CodeEasily-ss07)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" height="45" alt="YouTube"/>
+   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube"/>
 </a>
 
 <a href="(https://leetcode.com/u/sonamsainii_01/)" target="_blank">
