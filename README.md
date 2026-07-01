@@ -122,7 +122,7 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:sonamsaini045@gmail.com" target="_blank">
+  <a href="mailto:techiesonam045@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
   </a>
 
@@ -134,7 +134,7 @@
     <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube"/>
   </a>
 </p>
-<a href="(https://leetcode.com/u/sonamsainii_01/)" target="_blank">
+<a href="https://leetcode.com/sonamsainii_01/"  target="_blank">
   <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" alt="LeetCode"/>
 </a>
 </p>
