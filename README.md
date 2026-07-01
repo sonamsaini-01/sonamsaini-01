@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sonam Saini</h1>
+<h1 align="center">Hi , I'm Sonam Saini</h1>
 
 <h3 align="center">
 💻 B.Tech CSE Student | 🤖 AI & ML Enthusiast | 🚀 Hackathon Explorer | 🌱 Lifelong Learner
@@ -122,18 +122,18 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="sonamsaini045@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
-</a>
+  <a href="mailto:sonamsaini045@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
 
-<a href="(https://www.linkedin.com/in/ sonam-saini-047436326)/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-</a>
+  <a href="https://www.linkedin.com/in/sonam-saini-047436326/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
 
-<a href="(https://www.youtube.com/@CodeEasily-ss07)" target="_blank">
-   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube"/>
-</a>
-
+  <a href="https://www.youtube.com/@CodeEasily-ss07" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube"/>
+  </a>
+</p>
 <a href="(https://leetcode.com/u/sonamsainii_01/)" target="_blank">
   <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" alt="LeetCode"/>
 </a>
