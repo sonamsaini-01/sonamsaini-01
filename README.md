@@ -9,21 +9,21 @@
 </p>
 
 
-## 🚀 About Me
+##  About Me
 
 🎓 B.Tech Computer Science Engineering Student
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
+ Passionate about Artificial Intelligence, Machine Learning & Generative AI
 
-💡 Love building real-world projects and participating in Hackathons
+ Love building real-world projects and participating in Hackathons
 
-🧩 Solving Data Structures & Algorithms problems on LeetCode
+ Solving Data Structures & Algorithms problems on LeetCode
 
-🌱 Currently learning Deep Learning, LLMs, Cloud Computing & Docker
+ Currently learning Deep Learning, LLMs, Cloud Computing & Docker
 
-🤝 Open Source Contributor and Collaboration Enthusiast
+ Open Source Contributor and Collaboration Enthusiast
 
-🎯 Aspiring AI Engineer focused on building scalable intelligent systems
+ Aspiring AI Engineer focused on building scalable intelligent systems
 
 ---
 
@@ -62,29 +62,29 @@
 
 ---
 
-## 🌟 Currently Exploring
+##  Currently Exploring
 
 - 🤖 Generative AI & LLM Applications
-- 🧠 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- ☁️ Cloud Computing
-- 🌐 Full Stack Development
-- 📊 Data Analytics
-- ⚡ Open Source
+-  Machine Learning & Deep Learning
+-  Computer Vision
+-  Cloud Computing
+-  Full Stack Development
+-  Data Analytics
+-  Open Source
 
 ---
 
 ## 🎯 Github Goals
 
-✅ Build impactful AI projects
+ Build impactful AI projects
 
-✅ Master Data Structures & Algorithms
+ Master Data Structures & Algorithms
 
-✅ Participate in more Hackathons
+ Participate in more Hackathons
 
-✅ Contribute consistently to Open Source
+ Contribute consistently to Open Source
 
-✅ Become a skilled AI Engineer
+ Become a skilled AI Engineer
 
 ---
 
@@ -102,20 +102,20 @@
 ---
 
 
-## 📚 Featured Repositories
+##  Featured Repositories
 
 - 🤖 Artificial Intelligence Projects
 - 💻 Machine Learning Applications
-- 🌐 Full Stack Web Projects
-- 🏆 Hackathon Solutions
-- 📚 College Projects
-- ⚡ Open Source Contributions
+-  Full Stack Web Projects
+-  Hackathon Solutions
+-  College Projects
+-  Open Source Contributions
 
 ---
 
 ## 💬 Fun Fact
 
-> I enjoy turning ideas into projects, participating in hackathons, and learning something new every single day. 🚀
+> I enjoy turning ideas into projects, participating in hackathons, and learning something new every single day. 
 
 ---
 
@@ -141,5 +141,5 @@
 
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Let's build something amazing together. ⭐
+ Thanks for visiting my profile! Let's build something amazing together. 
 </h3>
