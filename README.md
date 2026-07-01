@@ -106,16 +106,6 @@
 
 ---
 
-## ✨ Bonus (More Attractive Add-ons)
-
-### 🏆 Trophy Section
-```html
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 
 ##  Featured Repositories
 
