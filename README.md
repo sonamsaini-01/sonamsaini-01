@@ -88,24 +88,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sonamsaini-01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamsaini-01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonamsaini-01&theme=tokyonight"/>
-</p>
-
----
-
 
 ##  Featured Repositories
 
